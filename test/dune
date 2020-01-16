@@ -1,3 +1,0 @@
-(test
- (name advent_of_code_2019)
- (libraries base stdio))
